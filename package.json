@@ -1,0 +1,19 @@
+{
+	"name": "zip-script",
+	"version": "1.0.0",
+	"description": "3rd party HTML5 asset prepper for Mediaplex",
+	"main": "zip-script.js",
+	"author": "Raine Dalusong <rdalusong@conversantmedia.com>",
+	"license": "MIT",
+	"dependencies": {
+		"fs-extra": "^0.30.0",
+		"jszip": "^3.1.2",
+		"zip-local": "^0.3.4",
+		"colors": "^1.1.2",
+		"tidy-html5": "^0.1.1"
+	},
+	"repository": {
+		"type": "git",
+  		"url": "http://stash.cnvrmedia.net/scm/ctapps/zipscript.git"
+	}
+}
